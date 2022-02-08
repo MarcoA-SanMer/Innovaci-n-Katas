@@ -1,2 +1,2 @@
-# Innovaci-n-Katas
+# Innovacion-Katas
 Todas las katas del curso.
